@@ -1,0 +1,4 @@
+/test_change_name:
+  ros__parameters:
+    number: 10
+    timer_period: 0.3

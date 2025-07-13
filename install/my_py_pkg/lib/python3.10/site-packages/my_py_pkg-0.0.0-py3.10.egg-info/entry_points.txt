@@ -1,0 +1,14 @@
+[console_scripts]
+Hardware_Status_Publisher = my_py_pkg.Hardware_Status_Publisher:main
+add_two_ints_client = my_py_pkg.add_two_ints_client:main
+add_two_ints_client_no_OOP = my_py_pkg.add_two_ints_client_no_OOP:main
+add_two_ints_server = my_py_pkg.add_two_ints_server:main
+battery = my_py_pkg.battery:main
+led_panel = my_py_pkg.led_panel:main
+number_pub = my_py_pkg.number_pub:main
+number_sub = my_py_pkg.number_sub:main
+publisher_test = my_py_pkg.publisher_test:main
+py_node = my_py_pkg.my_first_node:main
+reset_counter_client = my_py_pkg.reset_counter_client:main
+subsrciber_test = my_py_pkg.subscriber_test:main
+

@@ -1,0 +1,12 @@
+{
+  "package_name": "my_interfaces",
+  "non_idl_tuples": [
+    "/home/abood/ros2_test/src/my_interfaces:msg/HardwareStatus.msg",
+    "/home/abood/ros2_test/src/my_interfaces:msg/LedStateArray.msg",
+    "/home/abood/ros2_test/src/my_interfaces:srv/CalculateRectangleArea.srv",
+    "/home/abood/ros2_test/src/my_interfaces:srv/SetLed.srv",
+    "/home/abood/ros2_test/src/my_interfaces:msg/Turtle.msg",
+    "/home/abood/ros2_test/src/my_interfaces:msg/TurtleArray.msg",
+    "/home/abood/ros2_test/src/my_interfaces:srv/CatchTurtle.srv"
+  ]
+}

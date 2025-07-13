@@ -1,0 +1,22 @@
+[0.711s] Invoking command in '/home/abood/ros2_test/src/turtlesim_catch_them_all': CMAKE_PREFIX_PATH=/home/abood/ros2_test/install/my_interfaces:/home/abood/ros2_test/install/my_robot_bringup:/home/abood/ros2_test/install/my_cpp_pkg PYTHONPATH=/home/abood/ros2_test/build/turtlesim_catch_them_all/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abood/ros2_test/install/turtlesim_catch_them_all/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesim_catch_them_all build --build-base /home/abood/ros2_test/build/turtlesim_catch_them_all/build install --record /home/abood/ros2_test/build/turtlesim_catch_them_all/install.log --single-version-externally-managed install_data
+[0.919s] running egg_info
+[0.920s] writing ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/PKG-INFO
+[0.920s] writing dependency_links to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/dependency_links.txt
+[0.920s] writing entry points to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/entry_points.txt
+[0.921s] writing requirements to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/requires.txt
+[0.921s] writing top-level names to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/top_level.txt
+[0.922s] reading manifest file '../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[0.923s] writing manifest file '../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[0.923s] running build
+[0.923s] running build_py
+[0.924s] running install
+[0.924s] running install_lib
+[0.925s] running install_data
+[0.925s] running install_egg_info
+[0.927s] removing '/home/abood/ros2_test/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all-0.0.0-py3.10.egg-info' (and everything under it)
+[0.927s] Copying ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info to /home/abood/ros2_test/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all-0.0.0-py3.10.egg-info
+[0.928s] running install_scripts
+[0.947s] Installing turtle_controller script to /home/abood/ros2_test/install/turtlesim_catch_them_all/lib/turtlesim_catch_them_all
+[0.947s] Installing turtle_spawner script to /home/abood/ros2_test/install/turtlesim_catch_them_all/lib/turtlesim_catch_them_all
+[0.947s] writing list of installed files to '/home/abood/ros2_test/build/turtlesim_catch_them_all/install.log'
+[0.968s] Invoked command in '/home/abood/ros2_test/src/turtlesim_catch_them_all' returned '0': CMAKE_PREFIX_PATH=/home/abood/ros2_test/install/my_interfaces:/home/abood/ros2_test/install/my_robot_bringup:/home/abood/ros2_test/install/my_cpp_pkg PYTHONPATH=/home/abood/ros2_test/build/turtlesim_catch_them_all/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abood/ros2_test/install/turtlesim_catch_them_all/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesim_catch_them_all build --build-base /home/abood/ros2_test/build/turtlesim_catch_them_all/build install --record /home/abood/ros2_test/build/turtlesim_catch_them_all/install.log --single-version-externally-managed install_data
